@@ -1,18 +1,21 @@
-## Getting Started
+## Java İlk Ödev
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+KDV Tutarı Hesaplayan Program projeme hoşgeldin.Bu proje [Patika Dev](www.patika.dev) Java Back-End kursu için hazırlanmıştır.
 
-## Folder Structure
+## **Installation**
 
-The workspace contains two folders by default, where:
+Öncelikle projeyi clonelayın.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+git clone https://github.com/ysfcolk/KDVTutariHesaplama.git
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## **Usage**
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız
 
-## Dependency Management
+``` 
+cd KDVTutariHesaplama
+code .
+``` 
+## **Contributing**
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açiniz

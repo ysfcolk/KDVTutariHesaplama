@@ -1,4 +1,4 @@
-## Java İlk Ödev
+## Java KDV Tutarı Hesaplama
 
 KDV Tutarı Hesaplayan Program projeme hoşgeldin.Bu proje [Patika Dev](www.patika.dev) Java Back-End kursu için hazırlanmıştır.
 
